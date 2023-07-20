@@ -25,10 +25,3 @@ I'm open to collaborating on exciting projects! If you have an interesting proje
 ## 📫 How to Reach Me
 
 - Email: midhun25302@gmail.com
-
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
-
