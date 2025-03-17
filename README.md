@@ -6,7 +6,6 @@ I'm a Computer Science student, currently pursuing my undergraduate degree. I ha
 
 - Software Development
 - Machine Learning and Artificial Intelligence
-- Mobile App Development
 - Open Source Projects
 
 ## 🌱 What I'm Currently Learning
