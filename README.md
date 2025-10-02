@@ -4,7 +4,8 @@ I'm a Computer Science student, currently pursuing my undergraduate degree. I ha
 
 ## 🚀 My Interests
 
-- Software Development
+- Kubernetes
+- MLOps
 - Machine Learning and Artificial Intelligence
 - Open Source Projects
 
